@@ -10,7 +10,7 @@ import my_project.view.InputManager;
 import java.awt.event.KeyEvent;
 
 /**
- * Ein Objekt der Klasse ProgramController dient dazu das Programm zu steuern.
+ * Ein Objekt der Klasse ProgramController dient dazu das Programm zu steuern. hzgztz
  * Hinweise:
  * - Der Konstruktor sollte nicht geändert werden.
  * - Sowohl die startProgram()- als auch die updateProgram(...)-Methoden müssen vorhanden sein und ihre Signatur sollte
